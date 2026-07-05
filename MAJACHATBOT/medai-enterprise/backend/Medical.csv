@@ -1,0 +1,15 @@
+short_question,short_answer,tags,label
+"do i have a yeast infection","hi this can be a vaginal fungal infection which requires antifungal treatment. please consult a doctor.","['yeast infection']",1.0
+"does your upper backlung area hurt badly with asthma","if you have a true allergy to sulfa medications, asthma can trigger severe chest pain. consult your pulmonologist.","['asthma' 'ibuprofen' 'lung' 'cough' 'inhaler']",-1.0
+"taken off paxil cold turk now on celexa having weird symptoms","if overdose is suspected contact a poison control center. stopping paxil abruptly causes withdrawal syndrome.","['brain' 'lightheadedness' 'dizziness' 'coldness']",-1.0
+"i need to buy health insurance asap what do i do","go to healthcare gov or contact a local insurance broker to explore your coverage options.","['']",1.0
+"what happens if a pregnant woman has genital herpes","sorry for her pain. active lesions during delivery can be transmitted to the baby, so a c-section might be necessary.","['genital herpes' 'pregnancy']",-1.0
+"can an antibiotic through an iv give you a rash","yes it can even after you have finished the prescription. allergic reactions to antibiotics are common.","['rash' 'antibiotic']",1.0
+"can you test positive from having the hep b vaccine","test positive for what? if you had a hep b vaccine, you will test positive for hep b surface antibodies, meaning you are immune.","['hepatitis b']",1.0
+"what are the dietary restrictions for celiac disease","omitting gluten from the diet is the key to controlling celiac disease. avoid wheat, barley, and rye.","['celiac disease']",1.0
+"can i transmit genital warts seventeen years after","genital warts are caused by hpv. while the virus can clear up, it can remain dormant and occasionally reactivate.","['wart']",-1.0
+"is all vitamin d the same","no, there are two main forms: vitamin d2 and vitamin d3. d3 is more effective at raising blood levels of vitamin d.","['vitamin d']",-1.0
+"what is paracetamol used for","Paracetamol is a common painkiller used to treat aches and pain. It can also be used to reduce a high temperature.","['paracetamol', 'pain', 'fever']",1.0
+"I have a headache, what should I do","You can take over the counter pain relievers like ibuprofen or paracetamol, rest in a quiet dark room, and drink plenty of water.","['headache', 'pain']",1.0
+"I have a sore throat and cough","Gargle with warm salt water, drink plenty of fluids, and try lozenges. If it persists for more than a week, see a doctor.","['sore throat', 'cough']",1.0
+"what are the symptoms of diabetes","Common symptoms include increased thirst, frequent urination, extreme hunger, unexplained weight loss, fatigue, and blurred vision.","['diabetes', 'symptoms']",1.0

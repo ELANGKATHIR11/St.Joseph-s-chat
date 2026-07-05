@@ -2,6 +2,8 @@
 backend/data/lancedb/
 backend/medlaw_guard.db
 ai-medical-chatbot.csv
+**/qdrant_db/
+**/logs/
 
 # Python
 **/__pycache__/

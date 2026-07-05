@@ -1,6 +1,0 @@
-{
-  "name": "AI Chatbot",
-  "description": "A clean, minimalist AI chatbot with a modern, elegant user experience powered by Gemini.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
